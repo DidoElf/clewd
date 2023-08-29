@@ -1154,7 +1154,7 @@ module.exports = {
         "sessionKey=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",
         "sessionKey=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",
         "sessionKey=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"],
-    "Cookiecounter": 1147,
+    "Cookiecounter": 0,
     "Ip": "0.0.0.0",
     "Port": 8444,
     "BufferSize": 1,
