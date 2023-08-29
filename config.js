@@ -1156,7 +1156,7 @@ module.exports = {
         "sessionKey=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"],
     "Cookiecounter": 0,
     "Ip": "0.0.0.0",
-    "Port": 8444,
+    "Port": 8144,
     "BufferSize": 1,
     "SystemInterval": 3,
     "rProxy": "https://claude.ai",
