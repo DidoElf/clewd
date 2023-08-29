@@ -6,14 +6,8 @@
 // SET YOUR COOKIE BELOW
 
 module.exports = {
-    "Cookie": "sessionKey=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",
-    "CookieArray": ["sessionKey=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",
-        "sessionKey=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",
-        "sessionKey=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",
-        "sessionKey=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",
-        "sessionKey=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",
-        "sessionKey=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",
-        "sessionKey=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",
+    "Cookie": "sessionKey=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",
+    "CookieArray": ["sessionKey=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",
         "sessionKey=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",
         "sessionKey=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",
         "sessionKey=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",
@@ -1156,7 +1150,7 @@ module.exports = {
         "sessionKey=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"],
     "Cookiecounter": 0,
     "Ip": "0.0.0.0",
-    "Port": 8144,
+    "Port": 8444,
     "BufferSize": 1,
     "SystemInterval": 3,
     "rProxy": "https://claude.ai",
